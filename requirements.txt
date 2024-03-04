@@ -1,0 +1,5 @@
+streamlit
+cx-oracle
+oracledb
+pandas
+requests 

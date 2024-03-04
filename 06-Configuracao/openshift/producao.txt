@@ -1,0 +1,1 @@
+toolsdatajud,tjpe-producao-datajud,.,openshift-app-toolsdatajud,.

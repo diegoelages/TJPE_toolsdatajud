@@ -1,0 +1,2 @@
+;seqProtocolo;numProtocolo;codHash;tipStatusProtocolo;datDataEnvioProtocolo;codIpEnvio;qtdProcessosLote;qtdProcessosSucesso;qtdProcessosErro;siglaOrgao;grau;tamanhoArquivo;urlArquivo;flgExcluido;data;descStatusProtocolo
+0;1004780115;TJPE51728202209061662470402104;1cfbb7ce3440c9290c2ee40ec15d1f74534bafeafd0f5e0a5114ae55b824cf99;3;1662470402106;;1;1;0;TJPE;G1;46864;2022/TJPE/09/G1/TJPE51728202209061662470402104;False;2022-09-06 10:20:02.106;Processado com sucesso
